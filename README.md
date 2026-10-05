@@ -7,7 +7,7 @@ Por padrão ela **só simula** (dry-run): nada é gravado até você pedir com `
 ## Instalação
 
 ```
-pip install git+https://github.com/SilvioPLopes/stripcommentslib.git
+pip install git+https://github.com/SilvioPLopes/stripcomments.git
 ```
 
 Para desenvolvimento (a partir da pasta do projeto):
